@@ -3,7 +3,7 @@
 
 	import LogoCyber from './assets/logo.webp'
 	import LogoDiscord from './assets/discord.webp'
-	import LogoGithub from './assets/Github.webp'
+	import LogoGithub from './assets/github.webp'
 </script>
 
 <Presentation>
